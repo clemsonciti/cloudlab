@@ -46,6 +46,7 @@ coverage.xml
 *.cover
 .hypothesis/
 
+#
 # Translations
 *.mo
 *.pot
@@ -99,3 +100,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# decompressed data
+emulab-geni-lib-1baf79cf12cb
