@@ -1,1 +1,3 @@
-## Welcome to the Introduction to CloudLab Workshop!!!
+## DESCRIPTION
+
+This repository contains examples of CloudLab profiles. 
